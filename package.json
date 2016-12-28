@@ -1,0 +1,14 @@
+{
+  "name": "hello-pluralsighters",
+  "version": "0.0.1",
+  "description": "Demo app for Pluralsight Docker CI course",
+  "main": "app.js",
+  "author": "Ahed Eid <ahedeid@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mocha": "^3.2.0",
+    "pug": "^2.0.0-beta6",
+    "supertest": "^2.0.1"
+  }
+}
